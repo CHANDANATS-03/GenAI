@@ -1,0 +1,20 @@
+
+langgraph 
+
+
+langsmith
+
+
+langchain-tavily
+
+
+python-dotenv
+
+
+# Rag
+
+
+langchain-chroma
+
+
+chromadb 
